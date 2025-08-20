@@ -75,6 +75,66 @@ Parking system with Arduino + IR Sensors + Servo Motors.
 
 ---
 
+# 📂 My Projects Portfolio
+
+مرحبًا! 👋 هذا المستودع يحتوي على جميع المشاريع التي قمت بتطويرها، مقسمة حسب نوع المشروع.
+
+---
+
+## 📱 Flutter Projects (22 Projects)
+
+| Project Name | Description | GitHub Link | Tech |
+| ------------ | ----------- | ----------- | ---- |
+| Weather App | تطبيق لمعرفة حالة الطقس باستخدام APIs | [Repo](https://github.com/ahmedabdelkreem404/weather-app) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| Chat App | تطبيق دردشة مع Firebase | [Repo](https://github.com/ahmedabdelkreem404/chat-app) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| ToDo App | تطبيق لإدارة المهام اليومية | [Repo](https://github.com/ahmedabdelkreem404/todo-app) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| Calculator App | تطبيق آلة حاسبة متقدمة | [Repo](https://github.com/ahmedabdelkreem404/calculator-app) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
+| ... | ... | ... | ... |
+
+> يمكنك إضافة بقية المشاريع بنفس الطريقة (كل مشروع في صف منفصل مع رابط GitHub وBadge Flutter).
+
+---
+
+## 🌐 Web Projects (5 Projects)
+
+| Project Name | Description | GitHub Link | Tech |
+| ------------ | ----------- | ----------- | ---- |
+| TechZone Website | موقع لشركة خدمات رقمية | [Repo](https://github.com/ahmedabdelkreem404/techzone) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white), ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white) |
+| E-commerce Shop | متجر إلكتروني كامل | [Repo](https://github.com/ahmedabdelkreem404/ecommerce) | ![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white), ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) |
+| Portfolio Website | موقع شخصي احترافي | [Repo](https://github.com/ahmedabdelkreem404/portfolio) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ... | ... | ... | ... |
+
+---
+
+## 🖼 Screenshots / GIFs
+يمكنك إضافة صور لكل مشروع لتوضيح واجهة المستخدم أو وظائف المشروع، مثال:
+
+<p align="center">
+  <img src="https://github.com/ahmedabdelkreem404/weather-app/blob/main/screenshot.png" width="300"/>
+  <img src="https://github.com/ahmedabdelkreem404/chat-app/blob/main/screenshot.png" width="300"/>
+</p>
+
+---
+
+## 🏷️ Tags & Skills
+<p align="center">
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+  ![ESP32](https://img.shields.io/badge/ESP%20Boards-3C873A?style=for-the-badge&logo=espressif&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
+
+---
+
+✨ **ملحوظة**:  
+- استخدم **Pinned Repos** لأفضل 6 مشاريع في البروفايل الرئيسي.  
+- الباقي تعرضه في هذا README بطريقة منظمة وجداول + Badges + Screenshots.  
+- كل مشروع يظهر مع **اسم المشروع + وصف قصير + رابط GitHub + Badge للتقنيات المستخدمة**.
+
+
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
