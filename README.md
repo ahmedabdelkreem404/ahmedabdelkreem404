@@ -75,10 +75,12 @@ Parking system with Arduino + IR Sensors + Servo Motors.
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ahmedabdelkreem404/ahmedabdelkreem404/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <a href="https://github.com/ahmedabdelkreem404/ahmedabdelkreem404">
+    <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="650" style="border-radius:15px; box-shadow: 0 5px 15px rgba(0,0,0,0.3);"/>
+  </a>
 </p>
 
 ---
