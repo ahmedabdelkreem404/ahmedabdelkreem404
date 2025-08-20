@@ -34,8 +34,8 @@ A project using **Arduino + IR Sensors + Servo Motors** to manage car parking au
 
 ## 📊 GitHub Stats  
 
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAbdalkareemAli&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAbdalkareemAli&layout=compact&theme=radical)  
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedabdelkreem404&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedabdelkreem404&layout=compact&theme=radical)  
 
 ---
 
