@@ -25,7 +25,7 @@ I enjoy combining <b>hardware & software</b> to bring real-world solutions to li
 </p>
 
 ---
-
+<!--
 ## 📌 Featured Projects  
 
 <p align="center">
@@ -40,7 +40,7 @@ A powerful weather app built with Flutter + free APIs.
 Parking system with Arduino + IR Sensors + Servo Motors.  
 
 </p>
-
+-->
 ---
 
 ## 📊 GitHub Stats  
